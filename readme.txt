@@ -1,6 +1,6 @@
 Tema 2 protocoale de comunicare
 
-Aplicat, ie client-server TCP s, i UDP pentru gestionarea mesajelor
+Aplicatie client-server TCP si UDP pentru gestionarea mesajelor
 
 
 Fisiere sursa:
